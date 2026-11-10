@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor settings (contain machine-specific paths)
+.vscode/
+
+# MediaPipe model, downloaded automatically by tracker.py
+*.task
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
