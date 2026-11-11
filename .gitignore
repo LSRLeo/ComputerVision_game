@@ -4,8 +4,11 @@
 # Editor settings (contain machine-specific paths)
 .vscode/
 
-# MediaPipe model, downloaded automatically by tracker.py
+# MediaPipe models, downloaded automatically by tracker.py
 *.task
+
+# Countdown voice lines, recorded automatically by audio.py
+voice_cache/
 
 # Python
 __pycache__/
